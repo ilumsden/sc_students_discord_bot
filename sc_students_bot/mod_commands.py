@@ -41,4 +41,4 @@ async def purge_role_whitelist(ctx):
         rep = "Would NOT purge:\n"
         rep += "\n".join(["  * {}".format(m.name) for m in members_not_purged])
         f.write(rep)
-    await ctx.respond()
+    await ctx.respond("Test purge successful!")
