@@ -11,7 +11,7 @@ This bot has the following dependencies:
 
 To install the dependencies (except Python), simply run
 ```bash
-python3 -m pip install -r requirements.txt`
+python3 -m pip install -r requirements.txt
 ```
 
 ## Running the Bot:
